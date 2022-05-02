@@ -1,0 +1,28 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "A nde js package interacting with mysql to manage employee database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamuMakkena/EmployeeTracker.git"
+  },
+  "author": "ramu makkena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamuMakkena/EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/RamuMakkena/EmployeeTracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.3",
+    "mysql2": "^2.3.3",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
