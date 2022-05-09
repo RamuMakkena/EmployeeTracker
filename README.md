@@ -1,7 +1,7 @@
 # EmployeeTracker
 A node js package interacting with mysql to manage employee database
 
-# Technologies & nopm modules used
+# Technologies & npm modules used
 nodejs, [mysql2](https://www.npmjs.com/package/mysql2), [inquirer](https://www.npmjs.com/package/inquirer), [console.table](https://www.npmjs.com/package/console.table), [vaidator](https://www.npmjs.com/package/validator)
 
 # Demo links
